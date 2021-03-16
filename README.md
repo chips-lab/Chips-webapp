@@ -14,9 +14,7 @@
 
 
 ## General info
-The Computer Hardware Information Processing Specialists club is the academic club of the Department of Computer and Information Sciences at NCU.
-we will be creating an webapp.......
-
+Student of the computer and information science department will be creating a web app
 
 ## Feature requested
 
