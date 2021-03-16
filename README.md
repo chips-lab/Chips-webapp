@@ -1,4 +1,4 @@
-# Chips-webapp ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+# Chips-webapp ![Visitor Count](https://profile-counter.glitch.me/garrettomlin/count.svg)
 
 
 <p align="center">
