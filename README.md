@@ -1,10 +1,9 @@
 # Chips-webapp ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-![logo](https://user-images.githubusercontent.com/65048014/111237264-bf9fc280-85c2-11eb-9263-d62c6fb27332.png)
 
-
-
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65048014/111237264-bf9fc280-85c2-11eb-9263-d62c6fb27332.png" width="300">
+</p>
 
 ## Table of contents
 * [General info](#general-info)
