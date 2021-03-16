@@ -1,4 +1,4 @@
-# Chips-webapp !![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=garrettomlin&repo=github-visitors-badge&countColorcountColor&countColor=#0099ff)
+# Chips-webapp     ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=garrettomlin&repo=github-visitors-badge&countColorcountColor&countColor=#0099ff)
 
 
 
