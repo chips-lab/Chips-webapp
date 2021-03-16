@@ -1,5 +1,7 @@
 # Chips-webapp ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+![logo](https://user-images.githubusercontent.com/65048014/111237264-bf9fc280-85c2-11eb-9263-d62c6fb27332.png)
+
 
 
 
@@ -41,8 +43,7 @@ we will be creating an webapp.......
 	
 ## Technologies
 
-The Project gonna be created with:![logo](https://user-images.githubusercontent.com/65048014/111237264-bf9fc280-85c2-11eb-9263-d62c6fb27332.png)
-
+The Project gonna be created with:
 * Node.js
 * mongodb/mongoose
 * Html
